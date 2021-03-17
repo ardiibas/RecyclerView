@@ -1,0 +1,120 @@
+{
+   "status":"true",
+   "msg":"Data berhasil didapatkan",
+   "data":[
+      {
+         "idRuang":"S1",
+         "nama":"Ruang Intro",
+         "img":"approval",
+         "data":[
+            {
+               "idBarang":"1",
+               "nama":"STEGANOGRAFI",
+               "keterangan":"Steganografi adalah ilmu atau seni menyembunyikan sebuah berita/informasi ke dalam media tertentu sehingga tidak diketahui pihak lain kecuali pengirim dan penerima berita.",
+               "img":"approval"
+            },
+            {
+               "idBarang":"2",
+               "nama":"KRIPTOLOGI",
+               "keterangan":"Kriptologi adalah ilmu tentang cara merahasiakan berita/ informasi, yang meliputi dua hal, yaitu:<br/>1. Kriptografi yang mempelajari cara-cara menyandikan berita/ informasi<br/>2. Kriptoanalisis yang mempelajari tentang metode untuk menganalisis teks sandi menjadi teks asli.",
+               "img":"approval"
+            }
+         ]
+      },
+      {
+         "idRuang":"S2",
+         "nama":"Ruang Sandi Klasik",
+         "img":"approval",
+         "data":[
+            {
+               "idBarang":"3",
+               "nama":"SCYTALE",
+               "keterangan":"Kala itu, pada awal abad ke-5 SM, terjadi perang Peloponnesia antara Athena dan Liga Peloponnesia yang dipimpin Sparta. Plutarch dalam buku berjudul Life of Lysander diceritakan tentang penggunaan scytale. Para ephor Sparta membuat dua batang kayu yang panjang dan diameternya sama. Satu batang akan diserahkan kepada raja atau jenderal yang akan melakukan ekspedisi militer, sedangkan satu batang digunakan para ephor untuk menulis pesan rahasia lagi penting. Itulah yang mereka sebut sebagai scytale.<br/>Caranya, perkamen ataupun papyrus selebar tali kulit dililitkan pada scytale secara rapat dan menutup seluruh permukaannya. Setelah itu, mereka tuliskan informasi rahasia di permukaan perkamen, melepaskan dari scytale dan mengirimkan kepada komandan melali kurir. Siapapun yang mendapatkan perkamen itu tidak akan bisa mengetahui informasi rahasianya kecuali dia menggunakan scytale dengan dimensi yang sama dan cara yang sama dengan penulisnya.",
+               "img":"approval"
+            },
+            {
+               "idBarang":"4",
+               "nama":"TATO",
+               "keterangan":"Penggunaan steganografi sebagai salah satu bentuk persandian pernah diceritakan oleh Herodotus pada saat mengisahkan upaya Histiaeus mempengaruhi kondisi politik di Miletus, Yunani Kuno. Saat itu, Histiaeus merasa tidak nyaman hidup dalam pengasingan di Susa. Dia ingin kembali ke Miletus dengan cara memancing pergolakan di Ionia. Histiaeus memiliki harapan besar bahwa jika timbul masalah di Ionia, Raja Darius dari Persia akan mengirimnya ke Ionia untuk meredakan pergolakan.<br/>Demi memuluskan rencana ini, Histiaeus menyukur rambut pelayan yang paling setia dan menuliskan pesan rahasia di atas kulit kepalanya. Pelayan itu baru diperintahkan melakukan perjalanan dari Susa ke Miletus setelah rambut kepalanya kembali tumbuh menutupi tato pesan rahasia. Mengapa Histiaeus menggunakan cara demikian? Sebab, pelayan itu akan menempuh perjalanan kurang lebih 1.568 mil, melewati 111 pos pemeriksaan di “Royal Road” yang menghubungkan Susa sampai Sardis serta membutuhkan waktu tempuh selama 98 hari.<br/>Sesampainya di Miletus, pelayan/ budak itu menghadap Aristagoras; menantu Histiaeus sekaligus menyampaikan pesan agar menyukur rambutnya. Maka tampaklah di sana sebuah pesan untuk MEMBERONTAK.<br/>Aristagoras berhasil mendapatkan dukungan dari polis-polis (negara kota) yang ada di Ionia. Raja Darius pun mengirim pasukan untuk memadamkan pemberontakan yang berlangsung pada (499 – 494 SM). Di akhir peperangan, Histiaeus dieksekusi oleh Satrap Artaphernes karena khawatir Raja Darius akan mengampuninya.",
+               "img":"approval"
+            }
+         ]
+      },
+      {
+         "idRuang":"S3",
+         "nama":"Ruang Perintisan",
+         "img":"approval",
+         "data":[
+            {
+               "idBarang":"5",
+               "nama":"SEJARAH PERINTISAN DINAS CODE",
+               "keterangan":"Perpindahan ibu kota Republik Indonesia dari Jakarta ke Yogyakarta pada tanggal 4 Januari 1946 berdampak pula pada pindahnya berbagai kegiatan kantor pemerintahan ke Yogyakarta, termasuk Kementerian Pertahanan. Pada tanggal  4 April   1946  pukul 10.00 WIB, Menteri Pertahanan, Mr. Amir Sjarifoeddin , memerintahkan kepada Kolonel dr. Roebiono Kertopati untuk mendirikan badan pemberitaan rahasia bagi kepentingan Pemerintah RI, yang waktu itu disebut Dinas Code (baca: kode). Selain itu, juga dibangun jaringan komunikasi radio telegrafi di berbagai daerah.<br/>Awalnya, hanya Kementerian Pertahanan yang menggunakan sistem sandi dari Dinas Code. Namun seiring perkembangan waktu, instansi lain juga menggunakan code Kementerian Pertahanan Bagian B, antara lain: Markas Besar Tentara (M.B.T), Tentara Rakyat Indonesi (T.R.I) Sumatra, Panitya Oeroesan Pengembalian Orang Jepang dan Asing (P.O.P.D.A), Pantya Gentjatan Senjata, Divisi I, Gubernur Sumatra. Selain melaksanakan tugas pengamanan berita rahasia, Dinas Code juga bertugas melakukan pemantauan terhadap berita-berita dalam negeri dan luar negeri yang diperlukan oleh Kementerian Pertahanan Bagian B.<br/>Per 30 April 1947, dilaksanakan fusi badan-badan intelijen di Kementerian Pertahanan dengan Badan Rahasia Negara Indonesia (BRANI) menjadi Kementerian Pertahanan Bagian V. Hingga awal tahun 1948, Dinas Code telah berhasil menjalin hubungan code sampai ke berbagai daerah bahkan perwakilan RI di luar negeri yang ada di Singapura, London, Cairo, India dan PBB.",
+               "img":"approval"
+            },
+            {
+               "idBarang":"7",
+               "nama":"DR. R. ROEBIONO KERTOPATI",
+               "keterangan":"Roebiono Kertopati lahir di Ciamis pada tanggal 11 Maret 1914. Lulus sebagai “Dokter Djawa” dari Nederlandsch Indische Artsen School (NIAS) pada tahun 1941. Pengetahuan dasar intelijen selama Perang Dunia II menuntun beliau pada tugas mendirikan badan pemberitaan rahasia Indonesia sejak 4 April 1946 dengan nama Dinas Code. Selama dua bulan pertama dalam Dinas Code, Doccie (sebutan akrab dr. Roebiono) menyusun sebuah buku sistem sandi yang disebut Buku Code C. Beliau juga yang mendorong pembenahan sistem sandi di instansi-instansi pusat maupun daerah selama masa perjuangan memertahankan kemerdekaan Indonesia.<br/>Tidak seperti kebanyakan orang-orang ambidextrous yang mampu menggunakan kedua tangan sama baiknya tetapi lemah dalam IQ dan kecerdasan berbahasa; Doccie (sebutan akrab dr. Roebiono Kertopati) menguasai dengan aktif empat bahasa asing yakni Belanda, Jerman, Inggris dan Perancis. Kemampuan menciptakan 10.000 kata sandi dengan kedua tangannya pada Buku Code C dengan segala kerumitan dan keacakannya, menjadi pelengkap sosok intelijen ambidextrous yang istimewa.<br/>Di era kepemimpinan Presiden Soekarno, sebagai Kepala Djawatan Sandi, Doccie juga terlibat dalam Panitia Negara Penyelidikan Radio-aktivitet untuk menyelidiki potensi nuklir sebagai sumber energi. Autopsi terhadap jenazah tujuh Pahlawan Revolusi juga melibatkan dokter Angkatan Darat ini. Dr. Roebiono juga diminta menjadi dosen di PTIK dan LEMHANAS.<br/>Ketua Lembaga Sandi Negara yang wafat pada tanggal 23 Juli 1984 ini memegang motto “Berani Tidak Dikenal”. Selain meninggalkan seorang istri bernama Amalia Achmad Admaja serta tiga orang anak, beliau juga meninggalkan pesan untuk kita semua: “Ingatlah bahwa kechilafan satu orang sahadja tjukup sudah menjebabkan keruntuhan Negara”.",
+               "img":"approval"
+            },
+            {
+               "idBarang":"6",
+               "nama":"BUKU CODE C",
+               "keterangan":"Buku Code C merupakan master piece Museum Sandi. Buku ini disusun oleh dr. Roebiono Kertopati pada bulan April s.d Mei tahun 1946. Di dalamnya memuat lebih dari sepuluh ribu kata sandi yang menjadi pedoman komunikasi rahasia Dinas Code di bawah Kementerian Pertahanan maupun setelah berubah menjadi Djawatan Sandi Angkatan Perang.<br/>Awalnya, buku ini ditulis dengan dua tangan sekaligus oleh dr. Roebiono. Kemudian diperbanyak menjadi enam jilid dengan cara diketik oleh dua orang staff Kementerian Pertahanan sekaligus adik dari dr. Roebiono yaitu Sriwati dan Roekmini. Saat buku code ini dalam tahap pengetikan, maka dibuat pula sistem sandi lainnya. Sistem-sistem sandi itulah yang kemudian dipandang efektif mengamankan pemberitaan dari berbagai front pertempuran, pemberitaan delegasi perundingan pemerintah Indonesia dengan negara lain, pemberitaan ke luar negeri, bahkan sampai ke daerah-daerah pedalaman.<br/>Dari beberapa jilid yang pernah dibuat, saat ini tinggal 1 (satu) jilid Buku Code C yang tersisa dan menjadi koleksi unggulan Museum Sandi.",
+               "img":"approval"
+            }
+         ]
+      },
+      {
+         "idRuang":"S4",
+         "nama":"Maket Dukuh",
+         "img":"approval",
+         "data":[
+            {
+               "idBarang":"8",
+               "nama":"MAKET RUMAH SANDI",
+               "keterangan":"Bangunan ini merupakan miniatur dari Rumah Sandi yang terletak di Dusun Dukuh, Desa Purwoharjo, Samigaluh, Kulonprogo. Rumah itu merupakan rumah penduduk yang digunakan sebagai kamar sandi darurat pada masa Agresi Militer Belanda II. Di rumah itu, dua orang perwira sandi, yaitu Letnan Muda Soedijatmo dan Letnan Satu Sumarkidjo bermarkas setelah sebelumnya berkumpul dengan pejuang lainnya di Desa Dekso. Mereka berdua bekerja sebagai perwira sandi atau Cdo di bawah perintah Komandan PHB Mayor R. Koesoemo Dartojo.<br/>Tempat ini dipilih karena sangat strategis dengan perisai sungai Progo di timur, dan sungai Bogowonto di barat. Dr. Roebiono Kertopati sendiri setelah menyusul sampai Dekso kemudian melanjutkan perjalanan ke Kuningan, Jawa Barat dalam rangka membangun rantai komunikasi perjuangan mempertahankan kemerdekaan Indonesia.<br/>Selain sebagai kamar sandi darurat, rumah milik keluarga Mertosetomo itu juga berfungsi sebagai pos pemeriksaan ke-2 bagi setiap orang yang akan menemui Wakil Kepala Staf Angkatan Perang II Kolonel Tahi Bonar Simatupang yang bermarkas di Banaran (3 km dari Dukuh). Keluarga Mertosetomo banyak membantu perjuangan para pejuang, termasuk anaknya yang bernama Ponidjan yang berperan sebagai kurir.",
+               "img":"approval"
+            }
+         ]
+      },
+      {
+         "idRuang":"S5",
+         "nama":"Ruang Penegakan Sandi",
+         "img":"approval",
+         "data":[
+            {
+               "idBarang":"9",
+               "nama":"MINIATUR STASIUN RADIO BIDAR ALAM",
+               "keterangan":"``...Jadwal siaran biasanya malam hari, tidak pernah siang hari. Kita mulai bekerja sekitar pukul 01.00 malam dan baru berakhir menjelang pukul 04.00 pagi``, demikian cerita perwira sandi Oemar Said Noor pada saat mengenang operasional Stasiun Radio Bidar Alam yang bertempat di Surau Bulian. Tujuannya tidak lain supaya radiogram yang dikirim maupun diterima tidak disadap serta menghindari upaya musuh untuk mendeteksi letak stasiun radio dengan alat pengukur sinyal. Dari stasiun radio di Bidar Alam inilah, komunikasi secara rutin dilakukan dengan stasiun-stasiun radio AURI yang ada di Sumatera dan Jawa.<br/>Selain dikenal dengan callsign ``UDO``, stasiun radio ini juga dikenal sebagai Sender Bukittinggi. Oleh sebab pentingnya peran Stasiun Radio AURI ``UDO`` yang selama tujuh bulan melayani komunikasi pemimpin PDRI, Mr. Sjafroeddin Prawiranegara pernah mengungkapkan: ``Zonder jullie beteken ik niks! (tanpa kalian saya tidak ada artinya apa-apa)``",
+               "img":"approval"
+            },
+            {
+               "idBarang":"10",
+               "nama":"MEJA-KURSI KAMAR SANDI",
+               "keterangan":"Selain bangunan rumah, Museum Sandi juga melestarikan bukti-bukti sejarah saat para sandiman bertugas di kantor sandi darurat selama perjuangan gerilya pada tahun 1949. Inilah meja dan kursi yang digunakan oleh Letnan Muda Soedijatmo dan Letnan Satu Sumarkidjo saat mengerjakan tugas-tugas, termasuk mengenkripsi dan mendekripsi pesan-pesan rahasia. Adapun pengirimannya dilakukan melalui radio telegrafi yang memiliki kode panggil (call-sign) POP di bawah komando Mayor Koesoemo Dartojo.",
+               "img":"approval"
+            }
+         ]
+      },
+      {
+         "idRuang":"S6",
+         "nama":"Ruang Nusantara",
+         "img":"approval",
+         "data":[
+            {
+               "idBarang":"11",
+               "nama":"MESIN SANDI SR-64A",
+               "keterangan":"Semangat berdikari dalam bidang persandian dipupuk melalui riset-riset pengembangan sistem sandi supaya tidak bergantung pada mesin sandi buatan luar negeri. Maka pada awal dekade 60-an lahir mesin tipe SR-64 sebagai mesin sandi pertama karya anak bangsa. Mesin ini bekerja dengan sistem one time pad yaitu kunci untuk enkripsi sama panjang dengan teks asli dan merupakan deret dari subtitusi huruf secara random dengan sifat no periodicity and impossible to break. Sebutan SR adalah singkatan dari Soesilo Roebiono, sedangkan 64 diambil dari angka tahun pembuatan purwarupa mesin ini.<br/>Pada tahun 1965, mesin sandi ini pernah diuji coba sebagai bagian dari persiapan hubungan sandi dalam Konferensi Non Blok di Aljazair. Adapun konferensi itu sendiri gagal terlaksana karena kudeta di Aljazair. Sampai dengan tahun 1968 berhasil dibuat sebanyak 49 mesin sandi SR-64A.<br/>Kebutuhan untuk menjamin kerahasiaan informasi maupun komunikasi mendorong lembaga persandian di Indonesia untuk terus mengembangkan mesin sandi yang dimilikinya. Maka pada era-era selanjutnya berhasil dikembangkan mesin sandi SR-70b, SRE-VI, SN-101 dan lain sebagainya.",
+               "img":"approval"
+            },
+            {
+               "idBarang":"12",
+               "nama":"MESIN SANDI SN-011",
+               "keterangan":"Mesin Sandi SN-011 yang dibuat pada tahun 1985 dan Mesin Sandi SN-011 yang dibuat pada tahun 1990. Mesin Sandi SN-011 ini berbentuk telepon yang dapat berfungsi sebagai telepon bersandi.<br.>Mesin sandi SN-011 adalah buatan anak Indonesia akhir tahun 1990-an. Merupakan mesin sandi yang berbasis suara berbentuk telepon yang dilengkapi modul penyandi sehingga dapat berfungsi sebagai telepon bersandi.<br/>Telepon sandi ini dilengkapi dengan mode “secure” atau anti sadap yang dilengkapi dengan modul eksripsi di dalamnya. Karya anak bangsa ini merupakan ciptaan yang muktahir pada jamanya. Apabila komunikasi dilakukan dengan telpon ini, maka jauh lebih aman dibandingkan dengan pesawat telpon pada umumnya.",
+               "img":"approval"
+            }
+         ]
+      }
+   ]
+}
